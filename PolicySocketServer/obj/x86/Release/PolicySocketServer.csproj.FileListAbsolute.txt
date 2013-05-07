@@ -1,0 +1,11 @@
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\bin\Release\default_policy.xml
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\bin\Release\PolicySocketServer.exe.config
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\bin\Release\PolicySocketServer.exe
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\bin\Release\PolicySocketServer.pdb
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\obj\x86\Release\PolicySocketServer.PolicySocketService.resources
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\obj\x86\Release\PolicySocketServer.ProjectInstaller.resources
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\obj\x86\Release\PolicySocketServer.exe
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\obj\x86\Release\PolicySocketServer.pdb

@@ -1,0 +1,22 @@
+C:\Users\Prem\Documents\Visual Studio 2010\Projects\PolicySocketServer\PolicySocketServer\bin\Debug\default_policy.xml
+C:\Users\Prem\Documents\Visual Studio 2010\Projects\PolicySocketServer\PolicySocketServer\bin\Debug\PolicySocketServer.exe.config
+C:\Users\Prem\Documents\Visual Studio 2010\Projects\PolicySocketServer\PolicySocketServer\bin\Debug\PolicySocketServer.exe
+C:\Users\Prem\Documents\Visual Studio 2010\Projects\PolicySocketServer\PolicySocketServer\bin\Debug\PolicySocketServer.pdb
+C:\Users\Prem\Documents\Visual Studio 2010\Projects\PolicySocketServer\PolicySocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Prem\Documents\Visual Studio 2010\Projects\PolicySocketServer\PolicySocketServer\obj\x86\Debug\PolicySocketServer.PolicySocketService.resources
+C:\Users\Prem\Documents\Visual Studio 2010\Projects\PolicySocketServer\PolicySocketServer\obj\x86\Debug\PolicySocketServer.ProjectInstaller.resources
+C:\Users\Prem\Documents\Visual Studio 2010\Projects\PolicySocketServer\PolicySocketServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Prem\Documents\Visual Studio 2010\Projects\PolicySocketServer\PolicySocketServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Prem\Documents\Visual Studio 2010\Projects\PolicySocketServer\PolicySocketServer\obj\x86\Debug\PolicySocketServer.exe
+C:\Users\Prem\Documents\Visual Studio 2010\Projects\PolicySocketServer\PolicySocketServer\obj\x86\Debug\PolicySocketServer.pdb
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\bin\Debug\default_policy.xml
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\bin\Debug\PolicySocketServer.exe.config
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\bin\Debug\PolicySocketServer.exe
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\bin\Debug\PolicySocketServer.pdb
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\obj\x86\Debug\PolicySocketServer.PolicySocketService.resources
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\obj\x86\Debug\PolicySocketServer.ProjectInstaller.resources
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\obj\x86\Debug\PolicySocketServer.exe
+C:\Users\Prem\Google Drive\PolicySocketServer\PolicySocketServer\obj\x86\Debug\PolicySocketServer.pdb
